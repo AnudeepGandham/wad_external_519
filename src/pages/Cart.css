@@ -1,0 +1,39 @@
+.container {
+  padding: 20px;
+}
+
+.cart {
+  margin: 20px 0;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Vertically center items */
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.cart-item:last-child {
+  border-bottom: none;
+}
+
+.item-details {
+  display: flex;
+  align-items: center; /* Center items horizontally */
+}
+
+.item-details img {
+  width: 80px; /* Adjust image size as needed */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 10px; /* Space between image and text */
+}
+
+.item-details span {
+  font-size: 18px; /* Adjust font size */
+}
+
+/* Optional: Add hover effect */
+.cart-item:hover {
+  background-color: #f0f0f0; /* Light gray background on hover */
+}
