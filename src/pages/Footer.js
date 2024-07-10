@@ -4,8 +4,7 @@ import './Footer.css';
 const Footer = () => {
   return (
     <footer>
-      <p>&copy; 2024 eCommerce Website. All rights reserved.</p>
-      <p>22071A0519</p>
+      <p>&copy; 2024 eCommerce Website.22071A0542 All rights reserved.</p>
     </footer>
   );
 };

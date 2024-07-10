@@ -43,4 +43,11 @@
   button:hover {
     background-color: #45a049;
   }
-  
+  .error{
+    color:red;
+  }
+  .navigateToLink{
+    text-align: center;
+    display: block;
+    margin: auto;
+  }

@@ -14,8 +14,8 @@ const App = () => {
     <Router>
       <nav>
         <div className="logo">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFDjVb7hzKzgSlnNxOWxb_0i1S7jL5KSX-b5rYG6W88xaAerIgIP35GpBfMBM4riG-no&usqp=CAU" alt="Logo" />
-         <div className='ssc bg-warning'> <span>E-Kart</span></div>
+          <img src="https://t3.ftcdn.net/jpg/02/47/48/00/360_F_247480017_ST4hotATsrcErAja0VzdUsrrVBMIcE4u.jpg" alt="Logo" />
+         <div className='ssc bg-warning'> <span>ShopCart</span></div>
         </div>
         <ul>
           <li><Link to="/">Catalog</Link></li>
