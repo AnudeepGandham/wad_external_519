@@ -14,7 +14,7 @@ const App = () => {
     <Router>
       <nav>
         <div className="logo">
-          <img src="https://static.vecteezy.com/system/resources/previews/003/092/544/non_2x/e-commerce-logo-with-pointer-and-shopping-bag-free-vector.jpg" alt="Logo" />
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFDjVb7hzKzgSlnNxOWxb_0i1S7jL5KSX-b5rYG6W88xaAerIgIP35GpBfMBM4riG-no&usqp=CAU" alt="Logo" />
          <div className='ssc bg-warning'> <span>E-Kart</span></div>
         </div>
         <ul>
